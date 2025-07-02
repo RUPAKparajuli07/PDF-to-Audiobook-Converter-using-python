@@ -1,3 +1,5 @@
+install Gui's first
+
 import PyPDF2
 import os
 import tkinter as tk
