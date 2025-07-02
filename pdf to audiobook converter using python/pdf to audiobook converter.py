@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 import PyPDF2
 import os
 import tkinter as tk
